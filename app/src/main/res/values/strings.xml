@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">QuizImages</string>
+    <string name="titre">Quiz en images</string>
+    <string name="score_initial">Score : 0/5</string>
+    <string name="question_suivante">Question suivante</string>
+    <string name="voir_resultat">Voir le résultat</string>
+    <string name="rejouer">Rejouer</string>
 </resources>
